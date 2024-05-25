@@ -31,7 +31,7 @@ const Intro = () => {
           <span>Ayub Onyiego</span>
           <span>
             Software Engineer with high level of experience in web & app 
-            development, DevOps, and Technical Writing
+            development, DevOps, and Technical Writer
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
